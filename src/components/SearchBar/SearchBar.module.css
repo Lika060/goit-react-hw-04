@@ -40,9 +40,7 @@ header {
 .button {
     display: flex;
     justify-content: center;
-    /* align-content: center; */
     align-items: center;
-
     background-color: transparent;
     border-radius: 5px;
     outline: none;
@@ -50,7 +48,6 @@ header {
     border: none;
     cursor: pointer;
     padding: 1px 3px;
-
     color: #e15a129d;
     
 
